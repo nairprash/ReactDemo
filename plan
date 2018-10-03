@@ -1,0 +1,14 @@
+1. your first react component - h1 hello 
+
+
+2. Embedding expressions- add button button and div
+
+use dynamically using states with variable count:0 change h1 to span. use bootstrap
+
+3 . formatcount - chck value of count. return 0 is its zero else return value
+improve cod for this.state.count using object destructuring like const {count} = this .state
+
+
+4 . Setting attributes for elements
+
+
